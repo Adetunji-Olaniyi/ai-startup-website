@@ -2,7 +2,7 @@
 
 ## 1. Install Git
 
-Visit tthe official Git website and download the version of Git for your operating system. Follow the intallation instructions.
+Visit the official Git website and download the version of Git for your operating system. Follow the intallation instructions.
 
 ## 2. Create a Github Repository:
 
