@@ -326,6 +326,9 @@ Merged Jerry's pull request. complete the process by merging the PR into the mai
 
 ![](./Img/Merged.png)
 
+![](./Img/Both%20Merge.png)
+
 This simulated workflow illustrate how Git facilitate collaboartive development, allowing multiple work simulataneously on different aspect of a project and merge thier contribution seamlessly, even while working on the same files.
+
 
 End. 
